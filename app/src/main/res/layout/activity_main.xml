@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#5DA7C9"
+    android:padding="10dp"
+
+    >
+    <Button
+    android:layout_width="100dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/bttn1"
+    android:background="@drawable/background_"
+    android:layout_gravity="center"
+    android:layout_marginTop="80dp"
+    android:text="Button 1"
+    android:fontFamily="cursive"
+    android:textStyle="bold"
+    android:textColor="#000"
+    android:textSize="20dp"
+    />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bttn2"
+        android:background="@drawable/background_"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Button 2"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bttn3"
+        android:background="@drawable/background_"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Button 3"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bttn4"
+        android:background="@drawable/background_"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Button 4"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bttn5"
+        android:background="@drawable/background_"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Button 5"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"
+        />
+
+
+</LinearLayout>
